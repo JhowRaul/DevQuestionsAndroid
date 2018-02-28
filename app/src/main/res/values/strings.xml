@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DevQuestions</string>
+    <string-array name="lista">
+        <item>Uva</item>
+        <item>Melão</item>
+        <item>Laranja</item>
+        <item>Limão</item>
+    </string-array>
+</resources>
